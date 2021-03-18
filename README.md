@@ -42,7 +42,7 @@ The IP used was *3105793573* (185.30.166.37) from Freenode.
 
 ### Greetz
 
-[Saullo "n0psl3d" Carvalho](https://twitter.com/n0ps13d)
+[Saullo "n0ps13d" Carvalho](https://twitter.com/n0ps13d)
 
 ### Contact
 
