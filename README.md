@@ -19,7 +19,7 @@ The next 2 values are the IP, divided in 2 blocks of 5 chars (can be less, depen
 Currently I'm not obfuscating the IP in any way.
 
 It takes less than 10 minutes to change the IP (transactions to be confirmed).
-I set it up to spend less than R$ 2,00 (0.34 dollar cents) at each transaction.
+I set it up to spend less than R$ 2,00 (0.34 dollar cents) at each change.
 During my experiments, I spent R$ 1,74 (0.31 dollar cents), when the LTC price was R$ 1.115,64 (US$ 197,58).
 
 It's very cheap to change the IP. The money can be transferred between the Threat Actor accounts, therefore very little is spent in fees. 
