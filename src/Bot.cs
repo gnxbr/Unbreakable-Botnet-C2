@@ -193,7 +193,7 @@ public class Bot{
 public class Principal{
         public static void Main(){
 
-			// Port, Channel, Bot Prefix, [Optional] Channel Passwd
+	    // Port, Channel, Bot Prefix, [Optional] Channel Passwd
             Bot bot = new Bot(6667, "#s0ldiers", "el8");
 
             bot.Connect();
