@@ -1,3 +1,11 @@
+/* 
+	Unbreakable Botnet C2
+	by gnx @ freenode
+	twitter.com/alissonbertochi
+	
+	https://github.com/gnxbr/Unbreakable-Botnet-C2
+*/
+
 using System;
 using System.Net;
 using System.Text;
