@@ -52,7 +52,8 @@ Watch on [YouTube](https://www.youtube.com/watch?v=L-tx1Act7ao)
 
 If you wanna talk more about it, get in touch:
 
-* **IRC:** gnx @ freenode
+* **IRC:** gnx @ Libera.Chat
+
 * **Telegram:** [@gnxbr](https://t.me/gnxbr)
 * **Twitter:** [@alissonbertochi](https://twitter.com/alissonbertochi)
 * **E-mail:** alisson[at]bertochi[.]com[.]br
