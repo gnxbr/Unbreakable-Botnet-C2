@@ -1,6 +1,6 @@
 /* 
 	Unbreakable Botnet C2
-	by gnx @ freenode
+	by gnx
 	twitter.com/alissonbertochi
 	
 	https://github.com/gnxbr/Unbreakable-Botnet-C2
